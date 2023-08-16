@@ -1,2 +1,2 @@
-Today is wednesday
+Today is wednesdy and today
 we are learning Git & UnixAppend
