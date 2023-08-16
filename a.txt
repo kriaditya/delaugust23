@@ -1,2 +1,3 @@
 Today is wednesdy and I have my lunch today
 we are learning Git & UnixAppend
+git fetch+merge
